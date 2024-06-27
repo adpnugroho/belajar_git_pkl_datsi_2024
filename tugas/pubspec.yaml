@@ -1,0 +1,45 @@
+name: tugas
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=3.3.3 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+  flutter:
+    sdk: flutter
+  iconsax: ^0.0.8
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background.png
+    - assets/welcome.png
+    - assets/images/otp.png
+    - assets/laporan.png
+    - assets/newspaper.png
+    - assets/pajak.png
+    - assets/bus.png
+    - assets/harga pasar.png
+    - assets/co2.png
+    - assets/ambulance.png
+    - assets/menu.png
+    - assets/profile_pic.jpg
+    - assets/reporter.png
+    - assets/news.jpg
+    - assets/promo.jpg
+    - assets/cuaca.jpg
+    - assets/budaya.jpg
+    - assets/berita1.jpeg
+    - assets/reset.jpg
+    - assets/flood.jpg
+    - assets/news1.jpg
